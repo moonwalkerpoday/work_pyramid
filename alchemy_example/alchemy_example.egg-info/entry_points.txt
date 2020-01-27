@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = alchemy_example:main
+      [console_scripts]
+      initialize_alchemy_example_db = alchemy_example.scripts.initializedb:main
+      
