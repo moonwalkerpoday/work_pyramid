@@ -1,3 +1,0 @@
-[run]
-source = alchemy_example
-omit = alchemy_example/test*
